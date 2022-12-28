@@ -66,5 +66,5 @@ Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal `{}` untuk m
 
 ![2022-12-28 (2)](https://user-images.githubusercontent.com/115775237/209746542-3c4137dd-50f3-48cd-ab79-62514ea267e5.png)
 
-##Sekian, Terima kasih
+## Sekian, Terima kasih
 
